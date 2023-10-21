@@ -23,7 +23,7 @@ int main(){
             scanf("%d",&b[i-1][j-1]);
         }
     }
-    if (c2!=r1){
+    if (c1!=r2){
         printf("Oops!! The matrices are not multiplicable !! :)");
         exit(0);
     }
