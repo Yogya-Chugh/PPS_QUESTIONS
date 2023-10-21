@@ -1,3 +1,4 @@
+//PROGRAM FOR ADDITION OF TWO MATRICES
 #include<stdio.h>
 int main(){
     int r1,c1,i,j,a[100][100],b[100][100];
