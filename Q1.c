@@ -1,6 +1,9 @@
 //PROGRAM TO PRINT NAME
 #include<stdio.h>
 int main(){
-    printf("Yogya Chugh");
+    char name(20);
+    printf("Enter your name: ");
+    scanf("%s",&name);
+    printf("%s",name);
     return 0;
 }
